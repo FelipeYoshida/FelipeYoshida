@@ -1,32 +1,12 @@
-## Olá aqui é o Felipe. Seja bem vindo ao meu repositório!
+## Olá! Eu sou o Felipe Yoshida. Seja bem vindo(a) ao meu repositório!
+![FelipeYoshida GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeYoshida&show_icons=true&theme=radical) 
 
-<div>
-  
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeYohida&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeYohida&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
-<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeYoshida&layout=compact)
 
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Melhores Tecnologias <3</h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
-   </div>
-    
-  
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: felipeyoshida123@gmail.com">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "linkedin.com/in/felipe-yoshida-113857209>
-      <img width="25" src="linkedin.svg">
-</div>
-  
-![Snake animation](https://github.com/FelipeYohida/FelipeYohida/blob/output/github-contribution-grid-snake.svg)
+
+## Tecnologias
+<div style = "display: inline_block"><br/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<div><br/>
